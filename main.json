@@ -1,5 +1,6 @@
 {
     "features":[
-        {"name": "feature 1", "path":"./f1"},
+        {"name": "feature 2", "path":"./f2"},
+        {"name": "feature 1", "path":"./f1"}
     ]
 }
