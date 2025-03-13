@@ -1,0 +1,5 @@
+{
+    "features":[
+        {"name": "feature 1", "path":"./f1"},
+    ]
+}
